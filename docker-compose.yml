@@ -9,4 +9,3 @@ services:
   - "9300:9300"
   volumes:
   - ./data/logstash-data/:/etc/logstash
-
